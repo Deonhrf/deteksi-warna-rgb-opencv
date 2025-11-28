@@ -3,5 +3,7 @@ Sistem yang mampu mendeteksi warna RGB secara real-time! 🔍 Menggabungkan keca
 
 # ***Fitur Utama***
 Deteksi warna secara akurat 🎯
+
 Antarmuka pengguna yang sederhana 🖥️
+
 Implementasi langsung menggunakan OpenCV dan Tkinter 🚀
